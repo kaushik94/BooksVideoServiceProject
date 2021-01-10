@@ -1,0 +1,7 @@
+  <configuration>
+      <appSettings>
+          <add key="customer_file" value="/Users/kaushik/Desktop/Taskable/BooksVideoServiceProject/BooksVideoServiceProject/data/customers.json" />
+          <add key="orders_file" value="/Users/kaushik/Desktop/Taskable/BooksVideoServiceProject/BooksVideoServiceProject/data/orders.json" />
+          <add key="slips_folder" value="/Users/kaushik/Desktop/Taskable/BooksVideoServiceProject/BooksVideoServiceProject/data/slips/" />
+      </appSettings>
+  </configuration>

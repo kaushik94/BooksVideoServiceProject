@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksVideoServiceProject", "BooksVideoServiceProject\BooksVideoServiceProject.csproj", "{1DC58946-3C51-40FC-9BEF-B2FED29B4B56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BooksVideoServiceProject.Tests", "BooksVideoServiceProject.Tests\BooksVideoServiceProject.Tests\BooksVideoServiceProject.Tests.csproj", "{F7661304-B690-4338-B5AD-3F25EBCE0CED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DC58946-3C51-40FC-9BEF-B2FED29B4B56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DC58946-3C51-40FC-9BEF-B2FED29B4B56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DC58946-3C51-40FC-9BEF-B2FED29B4B56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DC58946-3C51-40FC-9BEF-B2FED29B4B56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7661304-B690-4338-B5AD-3F25EBCE0CED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7661304-B690-4338-B5AD-3F25EBCE0CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7661304-B690-4338-B5AD-3F25EBCE0CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7661304-B690-4338-B5AD-3F25EBCE0CED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40C862CB-DF4A-46DB-A891-7C8007EA9DB4}
+	EndGlobalSection
+EndGlobal
